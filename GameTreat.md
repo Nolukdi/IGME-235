@@ -23,7 +23,7 @@ threatens to permeate their home.
 
 Cartoonish style, with dark themes throughout. "Don't Starve" is an excellent reference.
 
-###Sound
+### Sound
 
 Dark, ambient music. Use lots of woodwinds and percussion to build tension.
 
@@ -31,21 +31,21 @@ The other sounds for hit effects, damage taken, or enemy killed should be simple
 yet obvious and loud enough that the player can easily associate sounds with actions.
 
 ## VI. Gameplay
-###Mechanics
+### Mechanics
 Players can place towers which automatically attack enemies. Earning money leads to the ability
 to buy and upgrade towers, to form a strategy that succeeds in defending against the enemy for
 a specific level.
 
-###Control
+### Control
 The players can play this game almost entirely with a mouse, as they merely need to click on
 objects and towers to upgrade and use them.
 
-###Teaching
+### Teaching
 The players will be taught during the first level. Instructions will be located at either side
 of the screen so that players know what to do. The game is fairly straight-forward, so a detailed
 tutorial is not really necessary.
 
-###Player learning
+### Player learning
 The player will have to learn which towers effectively eliminate certain types of enemies. (I.E.-some
 towers have stronger power, but slower firing speed, so using them on enemies of the same type would
 make sense.) The map will also be strategically laid out so the player needs to use their positions wisely.
