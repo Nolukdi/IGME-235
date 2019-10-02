@@ -52,6 +52,9 @@ make sense.) The map will also be strategically laid out so the player needs to 
 Each tower will have a certain range, and where that range is placed on the map matters a great deal.
 
 ## VII. Screenshots
+![Logo](logo.png)
+![Layout](Layout.png)
+
 
 ## VIII. Other
 
